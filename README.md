@@ -1,5 +1,7 @@
 # Fate Tables
 
+[![Documentation Status](https://readthedocs.org/projects/fate-tables/badge/?version=latest)](https://fate-tables.readthedocs.io/en/latest/?badge=latest)
+
 Fate SRD rules in tables.
 
 ## Roadmap
